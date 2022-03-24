@@ -1,3 +1,0 @@
-source: 
-  client: 
-    name: config-dev # prod的文件中此处为config-prod
